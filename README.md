@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @shadowfiles21
 - 👀 I’m interested in Network security and cybersecurity engineering.
-- 🌱 I’m currently learning anithyng that will make a network insecure
+- 🌱 I’m currently learning anithyng that will make a network insecure.
+- Helping other securing their network. 
 
 
 <!---
